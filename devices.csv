@@ -1,0 +1,14 @@
+uuid,created_at,operator_id,instance_id,app_version,device_id,device_name,status,action_type,voltage,temperature,severity,ui_latency_ms,notes
+8a3d6a1c-1a11-4c21-90df-17a2b623a1e1,2025-11-05 10:00:00,operator_A,host-01,v1.0.0,TR-101,Transformer A,Online,Check,230.5,67.4,Low,120,Routine check completed
+b72f5e3a-9d44-4c33-82e0-9b16c8d43b3a,2025-11-05 10:05:00,operator_B,host-01,v1.0.0,TR-102,Transformer B,Degraded,Maintenance,243.2,78.5,Medium,145,Voltage stabilized
+d2a4c5b6-1f8c-47e2-a9a1-13c5e93c85a2,2025-11-05 10:10:00,operator_C,host-02,v1.0.0,TR-103,Transformer C,Offline,Repair,0,85.9,Critical,180,Manual repair required
+c44e9b3a-65df-4f8e-95b1-bfd97d1d7f2f,2025-11-05 10:15:00,operator_D,host-03,v1.0.0,TR-104,Transformer D,Online,Check,229.4,62.3,Low,110,System running normally
+a8d7c4e1-3b2a-4a9f-bd45-4ef98e32b982,2025-11-05 10:20:00,operator_E,host-01,v1.0.0,TR-105,Transformer E,Degraded,Maintenance,241.5,76.8,Medium,130,Manual repair required
+e4c3b7d8-20a3-4ac2-995f-7192e6ab7b11,2025-11-05 10:25:00,operator_F,host-02,v1.0.0,TR-106,Transformer F,Online,Replace,232.6,66.2,Low,118,Routine check completed
+f9b1e6d4-72f2-4a8b-bc32-6ac7e3e7a44f,2025-11-05 10:30:00,operator_G,host-02,v1.0.0,TR-107,Transformer G,Unknown,Check,225.7,69.4,Medium,125,System running normally
+a6f9b3c5-89a0-45cd-b49e-36e8e91a2b91,2025-11-05 10:35:00,operator_H,host-03,v1.0.0,TR-108,Transformer H,Online,Maintenance,240.9,70.5,Low,135,Routine check completed
+b3a2c5d8-2f9a-47b3-9cc2-64a7d2b11f88,2025-11-05 10:40:00,operator_I,host-01,v1.0.0,TR-109,Transformer I,Offline,Repair,0,87.3,Critical,200,Manual repair required
+d8a3f4b2-5a7e-4d92-8f12-7a3e8f42a95c,2025-11-05 10:45:00,operator_J,host-03,v1.0.0,TR-110,Transformer J,Degraded,Replace,238.4,75.6,Medium,150,Voltage stabilized
+7b7a9993-1c2c-2a39-de82-6b102790cf87f7fb,2025-11-06 13:36:17,Vaishnavi_1,host-02,1.0.0,TR-13,Transformer V,Offline,Repair,56,89,Critical,897,Routine check
+b3120fca-c619-8856-b442-21d50ed0c40d4bdb,2025-11-06 13:39:27,VaishMano,host-09,1.0.0,TR-1234,Transformer Y,Degraded,Repair,400,78,Critical,789,testing note
+81e4173f-4922-76e8-6073-874c7901a5a65d0f,2025-11-06 13:40:10,VaishMano1,host-09,1.0.0,TR-1234,Transformer Y,Degraded,Repair,400,78,Critical,789,testing note
